@@ -14,7 +14,7 @@
 I'm a Master's student in **Applied Artificial Intelligence** at **Luleå University of Technology (Sweden)**.  
 My work bridges **data, models, and systems** — building pipelines that turn  theory into measurable performance. From low-level pixels to high-level AI strategy,  I aim to make machine intelligence interpretable, efficient, and useful.
 
-- 🎓 **Program:** Applied AI (2023– ) — parental leave spring 2025  
+- 🎓 **Program:** Applied AI (2023– ) 
 - 🧠 **Thesis:** Scheduled for **Spring 2026** — focus on real-time computer vision  
 - 🤝 **Looking for:** Collaboration or thesis partner in **AI / ML / Computer Vision**  
 - 📈 **Philosophy:** “AI should not only see the world — it should understand it.”
