@@ -92,10 +92,10 @@ My work bridges **data, models, and systems** — building pipelines that turn  
 
 ## 🎯 Current Goals
 
-- Design **Master’s Thesis (Spring 2026)**: efficient, real-time **Computer Vision**  
-- Build reproducible **AI pipelines** (sensor → model → API → metrics)  
-- Explore **RGB–Depth / LiDAR fusion** & model interpretability under uncertainty  
-- Continue research on **AI adoption frameworks** linking tech and business
+- 🎓 Completing my **Master’s Thesis (Spring 2026)**, focusing on **efficient, real-time Computer Vision**.  
+- 💼 Seeking a **part-time position** related to **Machine Learning** or **Computer Vision**, where I can apply and extend my technical skills.  
+- 🔬 Deepening research in **ML model development**, **perception systems**, and **model interpretability**.  
+- 🚀 Building **applied AI projects** that connect academic research with real-world implementation.
 
 ---
 
@@ -103,8 +103,6 @@ My work bridges **data, models, and systems** — building pipelines that turn  
 
 📍 Gothenburg, Sweden  
 🔗 [GitHub Profile](https://github.com/MagnusHjornhede)  
-✉️ [Add your email]  
-💼 [LinkedIn — optional]
 
 > Open to **Thesis Collaboration (2026)** in computer vision, ML, or real-time detection.  
 > Focused on building systems that connect _perception → reasoning → value_.
