@@ -109,13 +109,6 @@ My work bridges **data, models, and systems** — building pipelines that turn  
 
 ---
 
-### ✨ Personal Note
-
-> “AI should not only see the world — it should understand what it’s looking at.”  
-> My projects connect pixels to purpose — from the sensor level to organizational strategy.
-
----
-
 
 <!--
 **MagnusHjornhede/MagnusHjornhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
