@@ -37,18 +37,6 @@ Implementation and analysis of classical computer vision algorithms.
 - Evaluated algorithm performance under different noise and illumination conditions.  
 Tools: Python (OpenCV, NumPy, scikit-image), MATLAB.
 
-**Result examples**
-
-
-![Feature matching – Notre Dame](https://github.com/MagnusHjornhede/Computer-Vision-and-Image-Processing/blob/main/CaseStudy1_ImageProcessing/images/notredame_matches.png)  
-*Dense correspondence map generated using SIFT descriptors between two Notre Dame images.  
-The near-complete alignment of feature pairs demonstrates stable keypoint detection and descriptor matching under viewpoint change, validating the robustness of the pipeline.*
-
-
-![3D point cloud reconstruction](https://github.com/MagnusHjornhede/Computer-Vision-and-Image-Processing/blob/main/CaseStudy4_StereoVision/images/Pointcloud.png)  
-*3D point cloud reconstructed from stereo disparity data.  
-Demonstrates accurate stereo calibration and depth recovery based on geometric correspondence.*
-
 
 ---
 
@@ -70,14 +58,6 @@ Gesture classification using skeleton data and structured ML pipelines.
 Tools: Python, scikit-learn, PCA and visualization notebooks.
 
 
-**Result examples**
-
-![Feature distribution before normalization](https://github.com/MagnusHjornhede/kinect-gesture-ml-experiments/blob/main/Task1/plots/BoxPlotAll_train-final.png)  
-*Feature distribution across all input variables before normalization. The wide variance highlights the necessity of scaling for balanced model convergence.*
-
-![Model performance comparison](https://github.com/MagnusHjornhede/kinect-gesture-ml-experiments/blob/main/Task3/plots/PCA_explained_ratio.png)  
-*Principal Component Analysis cumulative explained variance ratio. Indicates that 95% of variance can be retained with reduced dimensionality, enabling faster training and stable accuracy.*
-
 ---
 
 ### AI Implementation and Business Development (Ericsson Case)  
@@ -98,13 +78,6 @@ Historical data analysis using modern ML techniques.
 - Visualized feature importance to interpret model decisions.  
 Tools: Python, scikit-learn, XGBoost, Matplotlib.
 
-**Result examples**
-
-![Survival rate by gender](https://github.com/MagnusHjornhede/RMS_Lusitania/blob/master/plots/Survival_rate_gender.png)  
-*Exploratory analysis showing clear survival rate disparity between genders, reflecting historical rescue bias and serving as a strong predictive feature.*
-
-![Confusion matrix (MLP model)](https://github.com/MagnusHjornhede/RMS_Lusitania/blob/master/plots/cm_mlp_150.png)  
-*Confusion matrix for the MLP classifier with optimized parameters. Diagonal dominance indicates stable model learning and effective generalization on the test set.*
 
 ---
 
@@ -133,6 +106,5 @@ Tools: Python, scikit-learn, XGBoost, Matplotlib.
 
 Email: magnus.hjornhede@gmail.com  
 Location: Gothenburg, Sweden  
-GitHub: [github.com/MagnusHjornhede](https://github.com/MagnusHjornhede)
 
 ---
