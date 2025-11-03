@@ -34,16 +34,21 @@ The goal is not to chase complexity, but to build systems that are interpretable
 Implementation and analysis of classical computer vision algorithms.  
 - Developed image filtering, edge detection, and feature extraction (Harris, SIFT, ORB).  
 - Built a stereo vision pipeline with calibration, rectification, disparity computation, and 3D visualization.  
-- Evaluated performance under varying image noise, lighting, and resolution.  
+- Evaluated algorithm performance under different noise and illumination conditions.  
 Tools: Python (OpenCV, NumPy, scikit-image), MATLAB.
 
 **Result examples**
 
-![SIFT feature matching](https://github.com/MagnusHjornhede/Computer-Vision-and-Image-Processing/blob/main/CaseStudy2_FeatureDetection/images/sift_matches.png)  
-*Visualizes SIFT-based keypoint matching between two images. The high density and correct alignment of matches indicate robust scale- and rotation-invariant feature detection.*
+
+![Feature matching – Notre Dame](https://github.com/MagnusHjornhede/Computer-Vision-and-Image-Processing/blob/main/CaseStudy1_ImageProcessing/images/notredame_matches.png)  
+*Dense correspondence map generated using SIFT descriptors between two Notre Dame images.  
+The near-complete alignment of feature pairs demonstrates stable keypoint detection and descriptor matching under viewpoint change, validating the robustness of the pipeline.*
+
 
 ![3D point cloud reconstruction](https://github.com/MagnusHjornhede/Computer-Vision-and-Image-Processing/blob/main/CaseStudy4_StereoVision/images/Pointcloud.png)  
-*3D point cloud reconstructed from stereo disparity data. Demonstrates successful camera calibration and geometric consistency of the stereo vision pipeline.*
+*3D point cloud reconstructed from stereo disparity data.  
+Demonstrates accurate stereo calibration and depth recovery based on geometric correspondence.*
+
 
 ---
 
