@@ -106,5 +106,3 @@ Location: Gothenburg, Sweden
 GitHub: [github.com/MagnusHjornhede](https://github.com/MagnusHjornhede)
 
 ---
-
-AI should not only see the world — it should understand it.
