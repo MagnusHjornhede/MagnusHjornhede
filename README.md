@@ -102,9 +102,7 @@ Tools: Python, scikit-learn, XGBoost, Matplotlib.
 
 ---
 
-## Contact
-
-Email: magnus.hjornhede@gmail.com  
+## Notes
 Location: Gothenburg, Sweden  
 
 ---
