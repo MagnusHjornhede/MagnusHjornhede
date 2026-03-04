@@ -5,19 +5,12 @@
 
 ## About
 
-I am a Master's student in  
-[Applied Artificial Intelligence at Luleå University of Technology, Sweden](https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai).
+I work with applied machine learning and data-driven systems using Python.
+My focus is on building practical solutions that connect data processing, modeling, and system integration. Most of my work spans the full development pipeline:
+data collection → preprocessing → model development → evaluation → deployment.
+I am currently completing a Master's degree in Applied Artificial Intelligence at Luleå University of Technology.
+📍 Gothenburg, Sweden
 
-The programme focuses on building **intelligent systems that solve real-world problems**, combining machine learning, data science, and software engineering.
-
-My work explores how machine learning models behave in practice — from **data processing and feature representation to model training, evaluation, and deployment**.
-
-I am particularly interested in designing systems that are **interpretable, efficient, and reproducible**, rather than simply increasing model complexity.
-
-- Program: Applied AI (MSc)
-- Master’s thesis: real-time perception and decision-making with event-based vision (Spring 2027)
-- Interests: machine learning systems, computer vision, AI evaluation
-- Location: Gothenburg, Sweden
 
 ---
 
