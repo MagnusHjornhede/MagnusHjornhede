@@ -5,12 +5,12 @@
 
 ## About
 
-I am a part time Master's student in [Applied Artificial Intelligence at Luleå University of Technology, Sweden](https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai).  
+I am a Master's student in [Applied Artificial Intelligence at Luleå University of Technology, Sweden](https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai).  
 My focus is on developing and evaluating computer vision and machine learning systems that connect algorithmic theory with real-world performance.  
 I work across the pipeline — from data collection and preprocessing to model training, analysis, and deployment.  
 The goal is not to chase complexity, but to build systems that are interpretable, efficient, and maintainable.
 
-- Program: Applied AI (2023– )  
+- Program: Applied AI   
 - Master’s thesis: scheduled for Spring 2027 — real-time computer vision and model interpretability  
 - Interests: computer vision, sensor fusion, ML pipelines, and practical AI adoption  
 - Location: Gothenburg, Sweden
