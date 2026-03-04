@@ -9,6 +9,7 @@ I work with applied machine learning and data-driven systems using Python.
 My focus is on building practical solutions that connect data processing, modeling, and system integration. Most of my work spans the full development pipeline:
 data collection → preprocessing → model development → evaluation → deployment.
 I am currently completing a Master's degree in Applied Artificial Intelligence at Luleå University of Technology.
+
 📍 Gothenburg, Sweden
 
 
