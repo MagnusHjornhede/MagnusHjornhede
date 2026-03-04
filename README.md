@@ -70,17 +70,6 @@ Output: Research report and strategic modeling framework.
 
 ---
 
-### RMS Lusitania – Machine Learning Analysis  
-Historical data analysis using modern ML techniques.  
-- Predicted passenger survival based on age, sex, ticket class, and embarkation.  
-- Compared MLP, SVM, and XGBoost models using cross-validation and metric-based ranking.  
-- Achieved 84% accuracy; identified socio-economic bias as a strong survival determinant.  
-- Visualized feature importance to interpret model decisions.  
-Tools: Python, scikit-learn, XGBoost, Matplotlib.
-
-
----
-
 ## Technical Skills
 
 | Category | Tools and Frameworks |
