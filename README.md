@@ -11,7 +11,7 @@ I work across the pipeline — from data collection and preprocessing to model t
 The goal is not to chase complexity, but to build systems that are interpretable, efficient, and maintainable.
 
 - Program: Applied AI (2023– )  
-- Master’s thesis: scheduled for Spring 2026 — real-time computer vision and model interpretability  
+- Master’s thesis: scheduled for Spring 2027 — real-time computer vision and model interpretability  
 - Interests: computer vision, sensor fusion, ML pipelines, and practical AI adoption  
 - Location: Gothenburg, Sweden
 
