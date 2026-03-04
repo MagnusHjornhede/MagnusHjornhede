@@ -1,18 +1,22 @@
 # Magnus L.H.
-### Applied Artificial Intelligence · Computer Vision · Machine Learning Systems
+### Applied Artificial Intelligence · Machine Learning · Computer Vision
 
 ---
 
 ## About
 
-I am a Master's student in [Applied Artificial Intelligence at Luleå University of Technology, Sweden](https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai).  
-My focus is on developing and evaluating computer vision and machine learning systems that connect algorithmic theory with real-world performance.  
-I work across the pipeline — from data collection and preprocessing to model training, analysis, and deployment.  
-The goal is not to chase complexity, but to build systems that are interpretable, efficient, and maintainable.
+I am a Master's student in  
+[Applied Artificial Intelligence at Luleå University of Technology, Sweden](https://www.ltu.se/en/education/programme/tmdia-master-programme-in-applied-ai).
 
-- Program: Applied AI   
-- Master’s thesis: scheduled for Spring 2027 — real-time computer vision and model interpretability  
-- Interests: computer vision, sensor fusion, ML pipelines, and practical AI adoption  
+The programme focuses on building **intelligent systems that solve real-world problems**, combining machine learning, data science, and software engineering.
+
+My work explores how machine learning models behave in practice — from **data processing and feature representation to model training, evaluation, and deployment**.
+
+I am particularly interested in designing systems that are **interpretable, efficient, and reproducible**, rather than simply increasing model complexity.
+
+- Program: Applied AI (MSc)
+- Master’s thesis: real-time perception and decision-making with event-based vision (Spring 2027)
+- Interests: machine learning systems, computer vision, AI evaluation
 - Location: Gothenburg, Sweden
 
 ---
@@ -21,77 +25,104 @@ The goal is not to chase complexity, but to build systems that are interpretable
 
 | Area | Keywords | Tools |
 |------|-----------|-------|
-| Computer Vision | Image processing, feature extraction, stereo depth, 3D reconstruction | OpenCV, NumPy, scikit-image, MATLAB |
-| Machine Learning | Evaluation, interpretability, model comparison | scikit-learn, TensorFlow, PyTorch |
-| AI Systems | Real-time inference, modular pipelines | Docker, Flask, GitHub Actions |
-| Data Science | Feature engineering, visualization, reproducibility | Pandas, Matplotlib, NumPy |
+| Machine Learning | model evaluation, feature learning, classification | PyTorch, scikit-learn |
+| Computer Vision | image processing, feature extraction, motion analysis | OpenCV, NumPy |
+| AI Systems | experiment pipelines, real-time inference | Python, Docker, Git |
+| Data Science | data processing, visualization, analysis | Pandas, Matplotlib |
 
 ---
 
 ## Selected Projects
 
-### Computer Vision and Image Processing  
-Implementation and analysis of classical computer vision algorithms.  
-- Developed image filtering, edge detection, and feature extraction (Harris, SIFT, ORB).  
-- Built a stereo vision pipeline with calibration, rectification, disparity computation, and 3D visualization.  
-- Evaluated algorithm performance under different noise and illumination conditions.  
-Tools: Python (OpenCV, NumPy, scikit-image), MATLAB.
+### Machine Learning Systems
 
+Development and evaluation of machine learning pipelines.
 
----
+Focus areas:
 
-### Applied Artificial Intelligence  
-A series of applied notebooks exploring core AI methods and their behavior under different configurations.  
-- Implemented supervised and unsupervised learning workflows with evaluation metrics.  
-- Compared embedding and representation methods (Word2Vec, GloVe, Hyperdimensional Computing).  
-- Benchmarked ANN (MNIST) at 97–98% accuracy and RNN (IMDB) at 83.7%, analyzing generalization and dropout.  
-Tools: Python, TensorFlow, PyTorch, scikit-learn.
+- model benchmarking
+- evaluation metrics
+- representation learning
+- reproducible experiments
+
+Tools: Python, PyTorch, scikit-learn.
 
 ---
 
-### Kinect Gesture ML Experiments  
-Gesture classification using skeleton data and structured ML pipelines.  
-- Processed 242-dimensional skeleton vectors for classification.  
-- Designed preprocessing and model benchmarking pipeline with PCA (95%) dimensionality reduction.  
-- Achieved up to 92% accuracy with ExtraTrees; Linear SVM provided best generalization after PCA.  
-- Compared interpretability, runtime, and robustness across models.  
-Tools: Python, scikit-learn, PCA and visualization notebooks.
+### Computer Vision and Image Processing
 
+Implementation and analysis of classical computer vision pipelines.
+
+Examples:
+
+- feature extraction and edge detection
+- stereo vision reconstruction
+- performance evaluation under varying conditions
+
+Tools: OpenCV, NumPy, scikit-image, MATLAB.
 
 ---
 
-### AI Implementation and Business Development (Ericsson Case)  
-Strategic analysis of AI adoption frameworks within enterprise environments.  
-- Designed a People–Process–Technology assessment model for responsible AI deployment.  
-- Conducted qualitative analysis of leadership, governance, and data maturity in Ericsson’s context.  
-- Proposed a four-phase roadmap (Strategy → Training → Governance → Scaling).  
-- Delivered actionable insights linking technical feasibility with organizational strategy.  
-Output: Research report and strategic modeling framework.
+### Gesture Recognition Experiments
+
+Research experiments using event-based vision data.
+
+Topics explored:
+
+- temporal representations of sensor data
+- gesture classification models
+- evaluation of early decision strategies
+
+Dataset example:
+
+- DVS Gesture dataset
+
+Tools: PyTorch, Python.
+
+---
+
+### Kinect Gesture Classification
+
+Machine learning pipeline using skeleton tracking data.
+
+Key aspects:
+
+- processing 242-dimensional skeletal features
+- PCA dimensionality reduction
+- benchmarking classical ML models
+
+Best performance:
+
+- ~92% accuracy with ExtraTrees
+
+Tools: Python, scikit-learn.
 
 ---
 
 ## Technical Skills
 
-| Category | Tools and Frameworks |
-|-----------|----------------------|
+| Category | Tools |
+|-----------|-------|
 | Programming | Python, MATLAB |
-| Machine Learning | TensorFlow, PyTorch, scikit-learn |
-| Data Handling | Pandas, NumPy, Matplotlib |
-| System Integration | Docker, Flask, GitHub Actions |
-| Research Tools | Jupyter, Simulink, Colab |
+| Machine Learning | PyTorch, scikit-learn |
+| Computer Vision | OpenCV, scikit-image |
+| Data Analysis | Pandas, NumPy, Matplotlib |
+| Systems | Docker, Git, GitHub Actions |
+| Research Tools | Jupyter, LaTeX |
 
 ---
 
-## Current Work and Goals
+## Current Work
 
-- Completing Master’s thesis on efficient, real-time computer vision (Spring 2026).  
-- Developing reproducible AI pipelines integrating sensors, models, and performance metrics.  
-- Exploring RGB–Depth fusion and uncertainty modeling for visual systems.  
-- Seeking part-time or collaborative roles in machine learning, computer vision, or applied AI research.  
+My current work focuses on building **reproducible machine learning experiments and real-time perception pipelines**.
+
+Topics explored include:
+
+- real-time inference
+- event-based sensor data
+- evaluation of model decision strategies
+- performance trade-offs in AI systems
 
 ---
 
-## Notes
-Location: Gothenburg, Sweden  
-
----
+Location: Gothenburg, Sweden
