@@ -114,7 +114,7 @@ Tools: Python, scikit-learn.
 
 ## Current Work
 
-My current work focuses on building **reproducible machine learning experiments and real-time perception pipelines**.
+My current focuses on building **reproducible machine learning experiments and real-time perception pipelines**.
 
 Topics explored include:
 
