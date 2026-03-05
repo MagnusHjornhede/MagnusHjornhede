@@ -5,7 +5,7 @@ Machine learning developer focused on **interpretable and reproducible AI system
 
 📍 Gothenburg, Sweden
 
----
+<br>
 
 ## About
 
@@ -21,7 +21,7 @@ data collection → preprocessing → model development → evaluation → deplo
 
 Currently completing a **Master’s degree in Applied Artificial Intelligence at Luleå University of Technology**.
 
----
+<br>
 
 ## Technical Focus
 
@@ -32,7 +32,7 @@ Currently completing a **Master’s degree in Applied Artificial Intelligence at
 | AI Systems | experiment pipelines, real-time inference | Python, Docker, Git |
 | Data Science | data processing, visualization, analysis | Pandas, Matplotlib |
 
----
+<br>
 
 ## Selected Projects
 
@@ -49,7 +49,7 @@ Focus areas:
 
 Tools: Python, PyTorch, scikit-learn.
 
----
+
 
 ### [Gesture Recognition (Classical ML)](https://github.com/MagnusHjornhede/gesture-recognition-classical-ml)
 
@@ -64,7 +64,7 @@ Focus areas:
 
 Tools: Python, scikit-learn, NumPy.
 
----
+
 
 ### [Kinect Gesture Classification](https://github.com/MagnusHjornhede/kinect-gesture-recognition)
 
@@ -82,7 +82,7 @@ Best performance:
 
 Tools: Python, scikit-learn.
 
----
+
 
 ### [Event Vision Object Tracking](https://github.com/MagnusHjornhede/event-vision-object-tracking)
 
@@ -110,7 +110,7 @@ Key aspects:
 
 Tools: Python, PyTorch, snnTorch.
 
----
+
 
 ### [Computer Vision Algorithms](https://github.com/MagnusHjornhede/computer-vision-algorithms)
 
@@ -125,7 +125,7 @@ Key aspects:
 
 Tools: Python, NumPy, OpenCV.
 
----
+<br>
 
 ## Technical Skills
 
@@ -138,7 +138,7 @@ Tools: Python, NumPy, OpenCV.
 | Systems | Docker, Git, GitHub Actions |
 | Research Tools | Jupyter, LaTeX |
 
----
+<br>
 
 ## Current Work
 
