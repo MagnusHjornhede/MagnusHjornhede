@@ -6,11 +6,16 @@
 ## About
 
 I work with applied machine learning and data-driven systems.
-My focus is on building practical solutions that connect data processing, modeling, and system integration. Most of my work spans the full development pipeline:
 
-data collection → preprocessing → model development → evaluation → deployment.
+I explore how machine learning models behave in practice — from **data processing and feature representation to model training, evaluation, and deployment**.
 
-I am currently completing a Master's degree in Applied Artificial Intelligence at Luleå University of Technology.
+I am particularly interested in designing systems that are **interpretable, efficient, and reproducible**, rather than simply increasing model complexity.
+
+Most of my work spans the full development pipeline:
+
+data collection → preprocessing → model development → evaluation → deployment
+
+Currently completing a **Master’s degree in Applied Artificial Intelligence at Luleå University of Technology**.
 
 📍 Gothenburg, Sweden
 
