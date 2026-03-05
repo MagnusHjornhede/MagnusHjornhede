@@ -39,7 +39,7 @@ Currently completing a **Master’s degree in Applied Artificial Intelligence at
 
 ## Selected Projects
 
-### Machine Learning Systems
+### [Machine Learning Systems] (https://github.com/MagnusHjornhede/machine-learning-pipeline)
 
 Development and evaluation of machine learning pipelines.
 
