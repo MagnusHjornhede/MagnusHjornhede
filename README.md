@@ -1,6 +1,10 @@
 # Magnus L.H.
 ### Applied Artificial Intelligence · Machine Learning · Computer Vision
 
+Machine learning developer focused on **interpretable and reproducible AI systems**.
+
+📍 Gothenburg, Sweden
+
 ---
 
 ## About
