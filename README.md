@@ -11,7 +11,7 @@ Machine learning developer focused on **interpretable and reproducible AI system
 
 I work with applied machine learning and data-driven systems.
 
-I explore how machine learning models behave in practice — from **data processing and feature representation to model training, evaluation, and deployment**.
+My work explores how machine learning models behave in practice — from **data processing and feature representation to model training, evaluation, and deployment**.
 
 I am particularly interested in designing systems that are **interpretable, efficient, and reproducible**, rather than simply increasing model complexity.
 
@@ -20,9 +20,6 @@ Most of my work spans the full development pipeline:
 data collection → preprocessing → model development → evaluation → deployment
 
 Currently completing a **Master’s degree in Applied Artificial Intelligence at Luleå University of Technology**.
-
-📍 Gothenburg, Sweden
-
 
 ---
 
@@ -45,62 +42,88 @@ Development and evaluation of machine learning pipelines.
 
 Focus areas:
 
-- model benchmarking
-- evaluation metrics
-- representation learning
-- reproducible experiments
+- model benchmarking  
+- evaluation metrics  
+- representation learning  
+- reproducible experiments  
 
 Tools: Python, PyTorch, scikit-learn.
 
 ---
 
-### Computer Vision and Image Processing
+### [Gesture Recognition (Classical ML)](https://github.com/MagnusHjornhede/gesture-recognition-classical-ml)
 
-Implementation and analysis of classical computer vision pipelines.
+Gesture classification using skeleton tracking data from Microsoft Kinect sensors.
 
-Examples:
+Focus areas:
 
-- feature extraction and edge detection
-- stereo vision reconstruction
-- performance evaluation under varying conditions
+- feature engineering  
+- skeleton-based gesture representation  
+- classical machine learning models  
+- model comparison and evaluation  
 
-Tools: OpenCV, NumPy, scikit-image, MATLAB.
-
----
-
-### Gesture Recognition Experiments
-
-Research experiments using event-based vision data.
-
-Topics explored:
-
-- temporal representations of sensor data
-- gesture classification models
-- evaluation of early decision strategies
-
-Dataset example:
-
-- DVS Gesture dataset
-
-Tools: PyTorch, Python.
+Tools: Python, scikit-learn, NumPy.
 
 ---
 
-### Kinect Gesture Classification
+### [Kinect Gesture Classification](https://github.com/MagnusHjornhede/kinect-gesture-recognition)
 
 Machine learning pipeline using skeleton tracking data.
 
 Key aspects:
 
-- processing 242-dimensional skeletal features
-- PCA dimensionality reduction
-- benchmarking classical ML models
+- processing 242-dimensional skeletal features  
+- PCA dimensionality reduction  
+- benchmarking classical ML models  
 
 Best performance:
 
 - ~92% accuracy with ExtraTrees
 
 Tools: Python, scikit-learn.
+
+---
+
+### [Event Vision Object Tracking](https://github.com/MagnusHjornhede/event-vision-object-tracking)
+
+Object tracking using event-based vision sensors (Dynamic Vision Sensors).
+
+Key aspects:
+
+- event-based visual data processing  
+- asynchronous perception systems  
+- event stream tracking methods  
+- exploration of neuromorphic vision concepts  
+
+Tools: Python, NumPy.
+
+### [Spoken Digit Classification with Spiking Neural Networks](https://github.com/MagnusHjornhede/spoken-digit-classification-snn)
+
+Speech classification using biologically inspired spiking neural networks.
+
+Key aspects:
+
+- spiking neural network architecture  
+- temporal signal representation  
+- surrogate gradient learning  
+- neuromorphic learning models  
+
+Tools: Python, PyTorch, snnTorch.
+
+---
+
+### [Computer Vision Algorithms](https://github.com/MagnusHjornhede/computer-vision-algorithms)
+
+Implementation and experimentation with classical computer vision algorithms.
+
+Key aspects:
+
+- edge detection  
+- feature extraction  
+- image processing pipelines  
+- algorithmic foundations of computer vision  
+
+Tools: Python, NumPy, OpenCV.
 
 ---
 
@@ -128,6 +151,3 @@ Topics explored include:
 - evaluation of model decision strategies
 - performance trade-offs in AI systems
 
----
-
-Location: Gothenburg, Sweden
